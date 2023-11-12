@@ -1,5 +1,5 @@
 #! /bin/bash
-if [ -z ls /bin/Hemanth Royal 2>/dev/null ]
+if [ -z ls /bin/easy-nmap 2>/dev/null ]
 then
 sudo mv installer.sh /bin/easy-nmap
 sudo chmod +x /bin/easy-nmap
