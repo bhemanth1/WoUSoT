@@ -1,11 +1,11 @@
 #! /bin/bash
 if [ -z ls /bin/Hemanth Royal 2>/dev/null ]
 then
-sudo mv installer.sh /bin/Hemanth Royal
-sudo chmod +x /bin/Hemanth Royal
+sudo mv installer.sh /bin/easy-nmap
+sudo chmod +x /bin/easy-nmap
 rm -f screen.png
 cd ..
-rm -rf Hemanth Royal
+rm -rf easy-nmap
 clear
 echo ""
 echo tput setaf 82 "Installation was Successful !!!"
